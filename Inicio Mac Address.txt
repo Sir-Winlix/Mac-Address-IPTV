@@ -1,5 +1,5 @@
 Inicio Mac Address
---------------------------------------------------------------------
+
 Server: http://storm.sphd.co:8080/c/
 MAC: 00:1a:79:34:d6:e5
 Vence:May 4, 2022, 6:53 pm
@@ -37,4 +37,59 @@ Mac: 00:1a:79:aa:b9:1a  April 27, 2022, 10:36 am
 Mac: 00:1a:79:31:0f:dd  November 28, 2021, 10:03 am     
 Mac: 00:1a:79:05:1f:04  October 7, 2021, 2:33 pm     
 Mac: 00:1a:79:46:05:45  May 11, 2022, 11:26 am  
+--------------------------------------------------------------------
+Server: http://31.42.176.50:8080/c/ 
+Conect and not work
+MAC: 00:1a:79:68:96:28 
+Vence:September 14, 2021, 7:23 pm     
+MAC: 00:1a:79:57:5b:7c 
+Vence:December 6, 2021, 7:30 pm     
+MAC: 00:1a:79:dc:c6:90 
+Vence:May 23, 2022, 11:21 pm 
+--------------------------------------------------------------------
+Server: http://g.cctvforyou.tk:8880/c
+Mac: 00:1a:79:25:38:c8 September 28, 2021, 3:22 pm     
+Mac: 00:1a:79:50:50:50 August 29, 2022, 10:28 pm     
+Mac: 00:1a:79:e5:1c:eb March 27, 2022, 7:06 pm     
+Mac: 00:1a:79:18:0e:16 July 28, 2022, 6:37 pm     
+Mac: 00:1a:79:6e:f6:7c August 22, 2022, 1:19 pm     
+Mac: 00:1a:79:b4:bd:9b October 30, 2021, 1:10 pm     
+Mac: 00:1a:79:00:fd:b5 August 21, 2022, 11:42 am     
+Mac: 00:1a:79:eb:b6:40 March 29, 2022, 10:04 pm     
+Mac: 00:1a:79:9b:1c:26 April 12, 2022, 10:36 pm     
+Mac: 00:1a:79:db:5b:c8 December 1, 2021, 7:14 pm 
+--------------------------------------------------------------------
+Server: http://163.172.18.189:80/c/     
+MAC: 00:1a:79:b2:4b:56 
+Vence:November 18, 2021, 4:21 pm     
+MAC: 00:1a:79:32:48:53 
+Vence:September 14, 2021, 6:43 am     
+MAC: 00:1a:79:bd:22:c3 
+Vence:September 10, 2021, 6:52 pm           
+MAC: 00:1a:79:a1:c4:de 
+Vence:October 8, 2021, 3:33 pm              
+MAC: 00:1a:79:a7:c9:67 
+Vence:October 17, 2021, 12:48 am     
+MAC: 00:1a:79:35:f0:34 
+Vence:October 14, 2021, 10:03 pm     
+MAC: 00:1a:79:3a:3c:af 
+Vence:January 8, 2022, 4:15 pm     
+MAC: 00:1a:79:aa:87:3b 
+Vence:February 1, 2022, 8:23 pm     
+MAC: 00:1a:79:2e:7e:d0 
+Vence:January 24, 2022, 12:29 pm     
+MAC: 00:1a:79:a7:d0:22 
+Vence:October 2, 2021, 9:15 pm     
+MAC: 00:1a:79:a4:45:d4 
+Vence:September 26, 2021, 6:27 pm          
+MAC: 00:1a:79:2e:7e:85 
+Vence:September 18, 2021, 6:51 pm     
+MAC: 00:1a:79:3f:2d:1f 
+Vence:September 11, 2021, 6:06 pm     
+MAC: 00:1a:79:b1:f9:be 
+Vence:September 9, 2021, 9:15 pm     
+MAC: 00:1a:79:2c:69:17 
+Vence:October 15, 2021, 6:59 pm     
+MAC: 00:1a:79:a6:f0:b9 
+Vence:November 1, 2021, 5:35 am 
 --------------------------------------------------------------------

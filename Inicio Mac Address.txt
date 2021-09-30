@@ -1,4 +1,7 @@
 Inicio Mac Address
+Server: http://pandar.tv:25461/c/
+Mac: 00:1A:79:00:4B:7F
+
 
 Server: http://storm.sphd.co:8080/c/
 MAC: 00:1a:79:34:d6:e5
